@@ -1,4 +1,4 @@
-Official implementation of the "Auto-Correct-Integrated trackers with and without memory of first frames".
+Official implementation of the "Auto-Correct-Integrated trackers with and without memory of first frames" paper.
 
 Link: https://link.springer.com/article/10.1007/s41315-020-00137-0
 
